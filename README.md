@@ -11,10 +11,4 @@ Alumno de Informática de la Universidad de Jaén.
 * **Trello**: https://trello.com/juanjosepeirogarrido
 * **Telegram**: @peirojj
 
-### Víctor M. Rivas Santos
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
