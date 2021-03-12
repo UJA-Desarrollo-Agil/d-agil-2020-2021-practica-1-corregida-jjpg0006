@@ -1,5 +1,6 @@
 # Documentación práctica 2
 Aqui se expondrá la información requerida sobre la práctica 2.
+Se ha cogido el ejemplo tutorial.en.html y se ha hecho una copia por lo que el archivo .html donde lo he llevado acabo esta en la misma carpeta con el nombre **tutorial - copia.en.html**, para el .js se ha llevado el mismo proceso he hecho una copia del js del .en y es llamado como **tutorial.game.en2.js**, está en la misma carpeta que el original y además se han incluido las imagenes que contiene el juego.
 
 ## Descripción del juego.
 El juego va sobre que hoy es el último día para realizar todas las compras que he estado aplazando durante semanas, mañana es la final de la Champions entre mi equipo favorito, el Real Madrid y el Paris Saint Germain, mi deber es comprar la entrada al partido de Champions en la peña, la equipación ofical del Madrid en la tienda y el billete de avión en el aeropuerto. Debo de comprar todo y volver a tu casa antes de las 14:30 que es cuando cierran todas las tiendas y tengo que tener tiempo suficiente para preparar la comida.
@@ -19,6 +20,31 @@ El juego tiene las siguientes situaciones:
 * **Pena**: Es donde puedo comprar la entrada al Madrid tendré que pagar la entrada ya que no tengo la camiseta barata (aunque puedo ir a la tienda a por ella).
 * **Penaequipacionb**:Es donde puedo comprar la entrada al Madrid, si tengo una equipación barata del madrid, el presidente me ofrecerá la entrada gratis por ella.
 * **Tienda**: Es donde puedo comprar la equipación oficial del Real Madrid que se necesita y una barata no oficial para darsela al Presidente y conseguir la entrada gratis. También podremos **trabajar** todas las veces que quiera mientras **disponga de tiempo para conseguir dinero**.
+* **Finaltwo**: Es la situación donde estoy cuando me quedo sin tiempo, he perdido mi objetivo.
+* **Casa**: Es la situación que ocurre cuando vuelvo a mi casa desde la calle principal pero no he conseguido los 3 objetos que necesito, por lo tanto no pasará nada y tendré que volver a la calle principal.
+* **Casavictoria**: Es la situación que ocurre cuando vuelvo a mi casa desde la calle principal y he conseguido los 3 objetos que necesito. **Por lo tanto he ganado y he completado mi objetivo**.
+
+### Guía simple de como ganar fácilmente.
+Hay diferentes maneras de como ganar (como trabajar en la tienda varias veces aunque hayas tomado malas decisiones en el pasado), pero expondré la más simple.
+En la primera situación cuando te levantas, elegir la opción de levantarte.
+En el pasillo, ir al comedor.
+En el comedor (conseguimos el boleto de descuento), coger dinero y llaves.
+Después, ir a la habitación.
+Recoger mascarilla en habitación e ir a la calle.
+Encontrar la mascarilla en la calle simón en la opción tocar los bolsillos e ir a la calle principal.
+Ir a la tienda y comprar ambas equipaciones.
+Volver a la calle principal.
+Ir a la peña a través del atajo, coger el billete, ignorar al estafador e ir a la peña.
+En la peña intercambiamos la camiseta por la entrada.
+Volver a la calle principal.
+Vamos al aeropueto y compramos el billete descontado gracias al boleto de descuento.
+Volvemos a la calle principal.
+Volvemos a la casa.
+
+## URL Trello
+https://trello.com/b/sJP85JN4/practica-2
+
+## Capturas de pantalla tablero trello
 
 Alumno de Informática de la Universidad de Jaén.
 * **Correo**: jjpg0006@ujaen.es
