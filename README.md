@@ -45,11 +45,13 @@ Volvemos a la casa.
 https://trello.com/b/sJP85JN4/practica-2
 
 ## Capturas de pantalla tablero trello
+Aqui mostraré la evolución del tablero de trello a través de la ejecución del proyecto.
+![cap1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-jjpg0006/blob/master/capturas/cap1.png)
+![cap2](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-jjpg0006/blob/master/capturas/cap2.png)
+![cap3](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-jjpg0006/blob/master/capturas/cap3.png)
+![cap4](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-jjpg0006/blob/master/capturas/cap4.png)
 
-Alumno de Informática de la Universidad de Jaén.
-* **Correo**: jjpg0006@ujaen.es
-* **GitHub**: https://github.com/jjpg0006
-* **Trello**: https://trello.com/juanjosepeirogarrido
-* **Telegram**: @peirojj
-
+## Capturas de pantalla de la aplicación Telegram
+Aqui mostraré la captura de pantalla de que el repositorio se encuentra correctamente enlazado a trello.
+![cap5](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-jjpg0006/blob/master/capturas/cap5.png)
 
